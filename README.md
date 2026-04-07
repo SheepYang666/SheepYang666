@@ -13,7 +13,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SheepYang666&show_icons=true&theme=transparent"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheepYang666&theme=transparent&layout=compact"/>

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I’m currently studying at **_HFUT_**
+- 🎓 I’m currently studying for a PhD at **_HFUT_**
 - 🔭 My research focuses on **4D open scene understanding**: tracking, reconstruction, novel view rendering
 - 🌱 I'm also working on **LiDAR SLAM** and **ROS 2** development
 - 📫 Reach me at: zry1286631670@gmail.com
